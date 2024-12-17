@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "IT-специалист",
+        "min_salary": 22019,
+        "avg_salary": 114676.77083333333,
+        "max_salary": 197270
+    },
+    {
+        "_id": "Архитектор",
+        "min_salary": 21986,
+        "avg_salary": 103755.578313253,
+        "max_salary": 199315
+    },
+    {
+        "_id": "Бухгалтер",
+        "min_salary": 26153,
+        "avg_salary": 109512.1294117647,
+        "max_salary": 197805
+    },
+    {
+        "_id": "Водитель",
+        "min_salary": 21329,
+        "avg_salary": 115200.71052631579,
+        "max_salary": 193143
+    },
+    {
+        "_id": "Врач",
+        "min_salary": 20323,
+        "avg_salary": 114790.5294117647,
+        "max_salary": 198449
+    },
+    {
+        "_id": "Инженер",
+        "min_salary": 25516,
+        "avg_salary": 111199.10256410256,
+        "max_salary": 199326
+    },
+    {
+        "_id": "Косметолог",
+        "min_salary": 24164,
+        "avg_salary": 114031.0875,
+        "max_salary": 197890
+    },
+    {
+        "_id": "Медсестра",
+        "min_salary": 22405,
+        "avg_salary": 107830.48235294118,
+        "max_salary": 190449
+    },
+    {
+        "_id": "Менеджер",
+        "min_salary": 22148,
+        "avg_salary": 93357.87234042553,
+        "max_salary": 197880
+    },
+    {
+        "_id": "Оператор call-центра",
+        "min_salary": 26425,
+        "avg_salary": 119263.4375,
+        "max_salary": 195009
+    },
+    {
+        "_id": "Повар",
+        "min_salary": 20638,
+        "avg_salary": 116966.41666666667,
+        "max_salary": 198593
+    },
+    {
+        "_id": "Программист",
+        "min_salary": 21903,
+        "avg_salary": 115765.21686746988,
+        "max_salary": 198829
+    },
+    {
+        "_id": "Продавец",
+        "min_salary": 20240,
+        "avg_salary": 113753.6511627907,
+        "max_salary": 197856
+    },
+    {
+        "_id": "Психолог",
+        "min_salary": 23772,
+        "avg_salary": 120220.5,
+        "max_salary": 198393
+    },
+    {
+        "_id": "Строитель",
+        "min_salary": 25230,
+        "avg_salary": 109591.14864864865,
+        "max_salary": 196903
+    },
+    {
+        "_id": "Учитель",
+        "min_salary": 20553,
+        "avg_salary": 97651.9,
+        "max_salary": 199057
+    }
+]
